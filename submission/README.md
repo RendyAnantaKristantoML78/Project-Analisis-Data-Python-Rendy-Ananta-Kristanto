@@ -1,5 +1,6 @@
 # Dashboard Analisis Sistem Bike Sharing
 
+##Saya menggunakan Anaconda untuk mengakses streamlit
 
 ## Setup Environment - Anaconda
 ```
@@ -17,7 +18,14 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-## Run steamlit app
+## Run Streamlit App
 ```
 streamlit run dashboard.py
 ```
+
+## Run Streamlit App from Streamlit Cloud
+```
+Silahkan buka link berikut:
+https://cuyypkdkmxn8l3zrtyppav.streamlit.app/ 
+```
+
